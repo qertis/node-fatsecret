@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Modern Fat Secret nodejs API",
   "type": "module",
-  "directories": {
-    "lib": "src"
-  },
   "keywords": [
     "fatsecret", "api"
   ],
@@ -20,6 +17,7 @@
     "url": "git+https://github.com/qertis/node-fatsecret.git"
   },
   "author": "qertis",
+  "main": "src/index.mjs",
   "license": "Unlicense",
   "bugs": {
     "url": "https://github.com/qertis/node-fatsecret/issues"
