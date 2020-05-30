@@ -1,10 +1,11 @@
 {
   "name": "node-fatsecret",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Modern Fat Secret nodejs API",
   "type": "module",
   "keywords": [
-    "fatsecret", "api"
+    "fatsecret",
+    "api"
   ],
   "files": [
     "src"
