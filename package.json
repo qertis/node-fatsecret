@@ -1,0 +1,28 @@
+{
+  "name": "node-fatsecret",
+  "version": "1.0.0",
+  "description": "Modern Fat Secret nodejs API",
+  "type": "module",
+  "directories": {
+    "lib": "src"
+  },
+  "keywords": [
+    "fatsecret", "api"
+  ],
+  "files": [
+    "src"
+  ],
+  "engines": {
+    "node": ">=12.17"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qertis/node-fatsecret.git"
+  },
+  "author": "qertis",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/qertis/node-fatsecret/issues"
+  },
+  "homepage": "https://github.com/qertis/node-fatsecret#readme"
+}
